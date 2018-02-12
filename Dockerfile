@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM nodejs
 
 # Create app directory
 WORKDIR /usr/src/app
